@@ -1,3 +1,2 @@
 # Gravity AR
-
-Under Project HANK!
+Made using UNity3D
